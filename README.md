@@ -18,7 +18,7 @@ Once you have Alcatraz installed, installing the theme is done in Xcode's menu `
 
 Simply paste this into a new Terminal window :)
 
-    git clone https://github.com/gtranchedone/XcodeThemes.git
+    git clone https://github.com/mysteriouss/XcodeThemes.git
     cd XcodeThemes/
     mkdir -p ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
     cp *.dvtcolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
@@ -26,9 +26,9 @@ Simply paste this into a new Terminal window :)
     rm -rf XcodeThemes/
     
     
-Anubis
+Myth
 ----
 
-![Interface Sample](https://raw.github.com/gtranchedone/XcodeThemes/master/Anubis%20Class%20Interface%20Sample.png)
+![Interface Sample](https://raw.github.com/mysteriouss/XcodeThemes/master/sample1.png)
 
-![Implementation Sample](https://raw.github.com/gtranchedone/XcodeThemes/master/Anubis%20Class%20Implementation%20Sample.png)
+![Implementation Sample](https://raw.github.com/mysteriouss/XcodeThemes/master/sample2.png)
